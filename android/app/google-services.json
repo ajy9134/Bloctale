@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340978674149",
+    "project_id": "bloctale",
+    "storage_bucket": "bloctale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340978674149:android:47312f7271df2647e8a70c",
+        "android_client_info": {
+          "package_name": "com.example.Bloctale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340978674149-khmb9e3quc4mngq54iu1h4bur2lppqme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Bloctale",
+            "certificate_hash": "f9864a2b189b099354347a2b058961846d749f94"
+          }
+        },
+        {
+          "client_id": "340978674149-1dd8hr7ru9bm4p1mp6pt6phsa90b3a6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYaikhhlAT2TheJezQXNX_7jrENeK9JSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340978674149-1dd8hr7ru9bm4p1mp6pt6phsa90b3a6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
